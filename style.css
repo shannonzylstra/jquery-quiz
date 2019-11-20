@@ -1,0 +1,19 @@
+.container {
+	width: 80%;
+	margin: 20px auto;
+}
+div#activeQuestion {
+	background: whitesmoke;
+	border: 1px solid blue;
+}
+div#activeAnswers {
+	background: whitesmoke;
+	border: 1px solid red;
+}
+div.QA {
+	display: none;
+}
+
+.btn-group {
+	margin: 20px auto;
+}
